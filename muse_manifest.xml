@@ -1,0 +1,89 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="plabondesign.ml" resolutions="1x" timestamp="1550570149790">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3829774161" ref="index"/>
+    <file name="letterhead.css" crc="311833784" ref="letterhead"/>
+    <file name="index.css" crc="4158201824" ref="index"/>
+    <file name="business-card.css" crc="4202666102" ref="business-card"/>
+    <file name="logo.css" crc="69016940" ref="logo"/>
+    <file name="flyer.css" crc="431970101" ref="flyer"/>
+  </folder>
+  <folder name="assets">
+    <file name="design-standard-business-card.jpg" crc="14070611" seo="true" mt="1550413554000"/>
+    <file name="plabon-design-2-01.png" crc="4006837830" seo="true" mt="1550403763000"/>
+    <file name="mockup.jpg" crc="3839951710" seo="true" mt="1550168660000"/>
+    <file name="02_letterhead.jpg" crc="3763358411" seo="true" mt="1550490926000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:business-card:logo:letterhead:flyer"/>
+    <file name="museutils.js" crc="340535759" ref="index:business-card:logo:letterhead:flyer"/>
+    <file name="whatinput.js" crc="86476730" ref="index:business-card:logo:letterhead:flyer"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:business-card:logo:letterhead:flyer"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:business-card:logo"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:business-card:logo:letterhead:flyer"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:business-card:logo"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u414.php" crc="4137061464" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:business-card:logo:letterhead:flyer"/>
+    <file name="require.js" crc="7928878" ref="index:business-card:logo:letterhead:flyer"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="business-card:logo"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="business-card:logo"/>
+    <file name="touchswipe.js" crc="4075097462" ref="business-card:logo"/>
+  </folder>
+  <folder name="images">
+    <file name="professional-creative-graphic-designer-desk-wooden-background-top-view-tools-mobile-cup-light-89417434.jpg" crc="371925151" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plabon design full white-01.png" crc="3863801646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plabon design-01-crop-u254.png" crc="293739295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u264-4.png" crc="3787905436" ref="index"/>
+    <file name="u268-4.png" crc="387570277" ref="index"/>
+    <file name="about.jpg" crc="4055266993" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="passportplabn.jpg" crc="4120695022" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="service.jpg" crc="29769457" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plabon design blck-01.png" crc="4107639105" seo="true" ref="business-card:logo:letterhead:flyer">
+      <caption webpage="letterhead" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="business-card" alt=""/>
+      <caption webpage="flyer" alt=""/>
+    </file>
+    <file name="plabon design-01.png" crc="81768442" seo="true" ref="business-card:logo">
+      <caption webpage="business-card" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="design-standard-business-card-u1555-fr.jpg" crc="4127363103" ref="business-card"/>
+    <file name="muckup-u1557-fr.jpg" crc="3974155605" ref="business-card"/>
+    <file name="muckup 2-u1556-fr.jpg" crc="3951719233" ref="business-card"/>
+    <file name="muckup-u1601-fr.jpg" crc="37521605" ref="business-card"/>
+    <file name="design-standard-business-card-u1561-a-fr.jpg" crc="322858871" ref="business-card"/>
+    <file name="muckup-u1563-a-fr.jpg" crc="98092741" ref="business-card"/>
+    <file name="muckup 2-u1562-a-fr.jpg" crc="411787054" ref="business-card"/>
+    <file name="muckup-u1598-a-fr.jpg" crc="4045396146" ref="business-card"/>
+    <file name="plabon design-01-u1775-fr.jpg" crc="4002907117" ref="logo"/>
+    <file name="mockup 2-u1773-fr.jpg" crc="3957527450" ref="logo"/>
+    <file name="logo-01-u1774-fr.jpg" crc="3826279029" ref="logo"/>
+    <file name="logo-01-u1776-fr.jpg" crc="3850175581" ref="logo"/>
+    <file name="plabon design-01-u1779-a-fr.jpg" crc="344758112" ref="logo"/>
+    <file name="mockup 2-u1778-a-fr.jpg" crc="526941297" ref="logo"/>
+    <file name="logo-01-u1780-a-fr.jpg" crc="4073583849" ref="logo"/>
+    <file name="logo-01-u1781-a-fr.jpg" crc="3974330771" ref="logo"/>
+  </folder>
+  <file name="index.html" crc="531727750" seo="true" mt="1550498408185" redirect="true"/>
+  <file name="business-card.html" crc="157619002" seo="true" mt="1550496123611" redirect="true"/>
+  <file name="logo.html" crc="4249504383" seo="true" mt="1550496608763" redirect="true"/>
+  <file name="letterhead.html" crc="453295548" seo="true" mt="1550496267233" redirect="true"/>
+  <file name="flyer.html" crc="3855808049" seo="true" mt="1550496281347" redirect="true"/>
+</manifest>
